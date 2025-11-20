@@ -3,14 +3,14 @@
 <p align="center">...but the people who know their God shall be strong, and carry out great exploits. — Daniel 11:32</p>
 
 <p align="center">
-  <a href="https://github.com/christianwhocodes">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christianwhocodes&theme=transparent" />
+  <a href="https://github.com/kvnwaks">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvnwaks&theme=transparent" />
   </a>
   <!-- https://streak-stats.demolab.com/demo/ -->
-  <a href="https://github.com/christianwhocodes">
-    <img src="https://streak-stats.demolab.com?user=christianwhocodes&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/kvnwaks">
+    <img src="https://streak-stats.demolab.com?user=kvnwaks&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/christianwhocodes">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christianwhocodes&theme=transparent" />
+  <a href="https://github.com/kvnwaks">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kvnwaks&theme=transparent" />
   </a>
 </p>

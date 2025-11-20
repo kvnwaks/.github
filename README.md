@@ -1,3 +1,3 @@
-# Christian Who Codes — GitHub profile 
+# Kevin Wakhisi — GitHub profile
 
-You can view my full profile information directly on my [GitHub page](https://github.com/christianwhocodes/).
+You can view my full profile information directly on my [GitHub page](https://github.com/kvnwaks/).
